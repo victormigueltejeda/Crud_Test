@@ -18,7 +18,7 @@ Este proyecto consiste en una Aplicación Web Frontend y una Aplicación Web Bac
 
 $Primero, clona el repo:
 
-##git clone 
+##git clone https://github.com/victormigueltejeda/Crud_Test.git
 
 para ejecutar el backend puedes usar el siguiente comando
 
