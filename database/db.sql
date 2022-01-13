@@ -1,0 +1,15 @@
+CREATE DATABASE crud
+
+CREATE TABLE peliculas(
+  id SERIAL PRIMARY KEY,
+  title VARCHAR(255) UNIQUE,
+  genero VARCHAR(255),
+  foto BYTEA UNIQUE,
+  fecha VARCHAR(255),
+);
+
+CREATE TABLE actores(
+  id SERIAL PRIMARY KEY,
+  nombre_completo VARCHAR(255) UNIQUE,
+  sexo VARCHAR(255)
+);
