@@ -18,7 +18,8 @@ Este proyecto consiste en una Aplicación Web Frontend y una Aplicación Web Bac
 
 $Primero, clona el repo:
 
-git clone https://github.com/FaztWeb/pern-stack
+##git clone 
+
 para ejecutar el backend puedes usar el siguiente comando
 
 npm run dev
